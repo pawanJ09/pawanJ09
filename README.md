@@ -5,6 +5,7 @@
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-EEF2FB?logo=springboot)
 ![Spring](https://img.shields.io/badge/-Spring-EEF2FB?logo=spring)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
 ![Javascript](https://img.shields.io/badge/-Javascript-red?logo=javascript)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-EEF2FB?logo=postgresql)
@@ -17,6 +18,8 @@
 
 ## My Projects
 
+- [Blackjack :black_joker:](https://github.com/pawanJ09/blackjack.git) - Command line Blackjack game developed using Python.
+- [Weather App :sun_behind_rain_cloud:](https://github.com/pawanJ09/weather-app.git) - Command line utility that shows current and forecasted weather for the requested city using Web scraping in Python.
 - [Java Solutions 🚀](https://github.com/pawanJ09/java-solutions.git) - Solutions to common Java problems from Leetcode and Hackerrank.
 - [Spring Cloud Config 🚀](https://github.com/pawanJ09/spring-boot.git) - Implementation of Spring Cloud Config client and server with local repo.
 - [AWS List Rules 🚀](https://github.com/pawanJ09/nodejs-learning.git) - NodeJS sample program to fetch and list AWS rules.
