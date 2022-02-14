@@ -3,9 +3,9 @@
 ## My preferred Technologies
 
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-EEF2FB?logo=springboot)
 ![Spring](https://img.shields.io/badge/-Spring-EEF2FB?logo=spring)
-![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
 ![Javascript](https://img.shields.io/badge/-Javascript-red?logo=javascript)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-EEF2FB?logo=postgresql)
