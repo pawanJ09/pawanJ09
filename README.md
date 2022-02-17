@@ -18,6 +18,7 @@
 
 ## My Projects
 
+- [Stocks and Crypto Data :moneybag:](https://github.com/pawanJ09/stocks-crypto-data.git) - An app that takes the stock/crypto name and fetches all historical data of that entity from last 5 years using web scraping in Python.
 - [Blackjack :black_joker:](https://github.com/pawanJ09/blackjack.git) - Command line Blackjack game developed using Python.
 - [Weather App :sun_behind_rain_cloud:](https://github.com/pawanJ09/weather-app.git) - Command line utility that shows current and forecasted weather for the requested city using Web scraping in Python.
 - [Java Solutions 🚀](https://github.com/pawanJ09/java-solutions.git) - Solutions to common Java problems from Leetcode and Hackerrank.
