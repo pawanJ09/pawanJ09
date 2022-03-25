@@ -21,6 +21,8 @@
 - [Stocks and Crypto Data :moneybag:](https://github.com/pawanJ09/stocks-crypto-data.git) - An app that takes the stock/crypto name and fetches all historical data of that entity from last 5 years using web scraping in Python.
 - [Blackjack :black_joker:](https://github.com/pawanJ09/blackjack.git) - Command line Blackjack game developed using Python.
 - [Weather App :sun_behind_rain_cloud:](https://github.com/pawanJ09/weather-app.git) - Command line utility that shows current and forecasted weather for the requested city using Web scraping in Python.
+- [PIR Motion Sensor :runner:](https://github.com/pawanJ09/motion-sensor.git) - A project using Micropython and Raspberry Pi Pico to integrate with a PIR Motion Sensor for creating a burglar alarm system.
+- [Temperature Sensor :house_with_garden:](https://github.com/pawanJ09/temperature-sensor.git) - A project using Micropython, Raspberry Pi Pico, DHT11 sensor and I2C LCD for creating a home temperature and humidity monitoring system.
 - [Java Solutions 🚀](https://github.com/pawanJ09/java-solutions.git) - Solutions to common Java problems from Leetcode and Hackerrank.
 - [Spring Cloud Config 🚀](https://github.com/pawanJ09/spring-boot.git) - Implementation of Spring Cloud Config client and server with local repo.
 - [AWS List Rules 🚀](https://github.com/pawanJ09/nodejs-learning.git) - NodeJS sample program to fetch and list AWS rules.
