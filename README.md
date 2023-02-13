@@ -19,7 +19,7 @@
 ## My Projects
 
 - [Expense Report Generator :bar_chart:](https://github.com/pawanJ09/expense-report-generator.git) - A Python application deployed on AWS Lambda that will parse the credit card statement, categorize the expenses and email the pie chart.
-- [Enhanced Ubuntu Container :construction_worker:]([:construction_worker:](https://github.com/pawanJ09/ubuntu-docker-image.git)) - Run a local Ubuntu docker container with pre installed packages like curl, unzip, vim, openssh, make, python3, git and awscli v2. It will also copy your aws credentials and ssh keys from local to the docker container so you can easily get started with your development activities on Ubuntu.
+- [Enhanced Ubuntu Container :construction_worker:](https://github.com/pawanJ09/ubuntu-docker-image.git) - Run a local Ubuntu docker container with pre installed packages like curl, unzip, vim, openssh, make, python3, git and awscli v2. It will also copy your aws credentials and ssh keys from local to the docker container so you can easily get started with your development activities on Ubuntu.
 - [Stocks and Crypto Data :moneybag:](https://github.com/pawanJ09/stocks-crypto-data.git) - An app that takes the stock/crypto name and fetches all historical data of that entity from last 5 years using web scraping in Python.
 - [Blackjack :black_joker:](https://github.com/pawanJ09/blackjack.git) - Command line Blackjack game developed using Python.
 - [Weather App :sun_behind_rain_cloud:](https://github.com/pawanJ09/weather-app.git) - Command line utility that shows current and forecasted weather for the requested city using Web scraping in Python.
