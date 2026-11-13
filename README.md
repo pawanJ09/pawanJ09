@@ -18,6 +18,7 @@
 
 ## My Highlight Projects
 
+- [Local RAG Agent :baggage_claim:](https://github.com/pawanJ09/local-rag-deploy.git) - Ask questions about your own documents. Everything runs on your computer, and nothing is sent to the internet while you use it.
 - [LinkedIn Job Search Helper :surfer:](https://github.com/pawanJ09/job-agent.git) - A locally-run application that reads your LinkedIn job alert emails, fetches full posting details, scores them against your resume, drafts a short outreach message for each good match, and emails you a daily digest to review and send yourself.
 - [Expense Report Generator :bar_chart:](https://github.com/pawanJ09/expense-report-generator.git) - A Python application deployed on AWS Lambda that will parse the credit card statement, categorize the expenses and email the pie chart.
 - [Enhanced Ubuntu Container :construction_worker:](https://github.com/pawanJ09/ubuntu-docker-image.git) - Run a local Ubuntu docker container with pre installed packages like curl, unzip, vim, openssh, make, python3, git and awscli v2. It will also copy your aws credentials and ssh keys from local to the docker container so you can easily get started with your development activities on Ubuntu.
